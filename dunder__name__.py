@@ -1,0 +1,1 @@
+# Special variable allowing us to detect whether a module is run as a script or imported into another module.
